@@ -1,0 +1,37 @@
+{
+    "song1" : {
+       "song" : "Hey Stupid, I Love You",
+       "artist" : "JP Saxe",
+       "genre" : "Pop Ballad",
+       "link": "https://www.youtube.com/watch?v=_fgXpX1vEQA"
+    },
+
+    "song2" : {
+        "song" : "Fallin' All In You",
+        "artist" : "Shawn Mendes",
+        "genre" : "Pop",
+        "link": "https://www.youtube.com/watch?v=D5P1R6CRsoM"
+     },
+     
+     "song3" : {
+        "song" : "Sweet Nothing",
+        "artist" : "Taylor Swift",
+        "genre" : "Pop",
+        "link": "https://www.youtube.com/watch?v=rn0brgg2BpI"
+     },
+
+     "song4" : {
+        "song" : "Night Changes",
+        "artist" : "One Direction",
+        "genre" : "Folk-Pop",
+        "link": "https://www.youtube.com/watch?v=syFZfO_wfMQ"
+     },
+
+     "song5" : {
+        "song" : "drivers license",
+        "artist" : "Olivia Rodrigo",
+        "genre" : "Bedroom Pop",
+        "link": "https://www.youtube.com/watch?v=ZmDBbnmKpqQ"
+     }
+
+}
